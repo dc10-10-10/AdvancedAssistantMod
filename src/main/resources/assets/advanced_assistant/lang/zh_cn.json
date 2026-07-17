@@ -1,0 +1,11 @@
+{
+  "itemGroup.advanced_assistant": "高级模组助手",
+  "gui.advanced_assistant.main": "主界面",
+  "gui.advanced_assistant.settings": "设置",
+  "gui.advanced_assistant.features": "功能",
+  "message.advanced_assistant.enabled": "功能已启用",
+  "message.advanced_assistant.disabled": "功能已禁用",
+  "message.advanced_assistant.loaded": "模组已加载",
+  "key.advanced_assistant.toggle": "切换助手",
+  "key.advanced_assistant.settings": "打开设置"
+}
